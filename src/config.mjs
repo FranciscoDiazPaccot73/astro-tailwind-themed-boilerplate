@@ -1,7 +1,7 @@
 export const SITE = {
 	name: 'Astro Boilerplate',
 
-	origin: 'https://github.com/FranciscoDiazPaccot73/astro-tailwind-themed-boilerplate',
+	origin: 'https://astro-tailwind-themed-boilerplate.vercel.app',
 	basePathname: '/',
 
 	title: 'Astro Boilerplate',
