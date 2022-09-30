@@ -19,11 +19,7 @@ export default defineConfig({
 	output: 'static',
 
 	integrations: [
-		tailwind({
-			config: {
-				applyBaseStyles: false,
-			},
-		}),
+		tailwind(),
 		image(),
 	],
 
